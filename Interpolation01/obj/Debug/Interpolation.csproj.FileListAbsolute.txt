@@ -1,0 +1,85 @@
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\PChebyshev.exe.config
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\PChebyshev.exe
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\PChebyshev.pdb
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\ZedGraph.xml
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\Interpolation01\obj\Debug\Interpolation01.Form1.resources
+C:\Users\111\Desktop\C# курсач\Interpolation01\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+C:\Users\111\Desktop\C# курсач\Interpolation01\obj\Debug\PChebyshev.exe
+C:\Users\111\Desktop\C# курсач\Interpolation01\obj\Debug\PChebyshev.pdb
+C:\Users\111\Desktop\C# курсач\Interpolation01\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\111\Desktop\C# курсач\Interpolation01\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\PChebyshev.exe.config
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\obj\Debug\PChebyshev.exe
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\obj\Debug\PChebyshev.pdb
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\PChebyshev.exe
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\PChebyshev.pdb
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\ZedGraph.xml
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\obj\Debug\Interpolation01.Form1.resources
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\111\Desktop\C# курсач\PChebyshev\Interpolation01\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\bin\Debug\PChebyshev.exe.config
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\obj\Debug\PChebyshev.exe
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\obj\Debug\PChebyshev.pdb
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\bin\Debug\PChebyshev.exe
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\bin\Debug\PChebyshev.pdb
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\obj\Debug\Interpolation01.Form1.resources
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+C:\Users\Maks_Sh\Desktop\Курсовая\PChebyshev\Interpolation01\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\bin\Debug\PChebyshev.exe.config
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Debug\PChebyshev.exe
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Debug\PChebyshev.pdb
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Debug\Interpolation01.Form1.resources
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\bin\Debug\PChebyshev.exe
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\bin\Debug\PChebyshev.pdb
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\bin\Debug\PChebyshev.exe.config
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\obj\Debug\PChebyshev.exe
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\obj\Debug\PChebyshev.pdb
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\bin\Debug\PChebyshev.exe
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\bin\Debug\PChebyshev.pdb
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\obj\Debug\Interpolation01.Form1.resources
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\obj\Debug\Interpolation.Properties.Resources.resources
+D:\Учеба\Курсовая Чышее\Chebysh\Interpolation01\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\bin\Debug\PChebyshev.exe.config
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\obj\Debug\PChebyshev.exe
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\obj\Debug\PChebyshev.pdb
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\bin\Debug\PChebyshev.exe
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\bin\Debug\PChebyshev.pdb
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\obj\Debug\Interpolation01.Form1.resources
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\obj\Debug\Interpolation.Properties.Resources.resources
+D:\Учеба\Курсовая Чышев\Chebysh\Interpolation01\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+D:\MyProjects\ChebyshevInterpolation\Interpolation01\bin\Debug\PChebyshev.exe.config
+D:\MyProjects\ChebyshevInterpolation\Interpolation01\obj\Debug\PChebyshev.exe
+D:\MyProjects\ChebyshevInterpolation\Interpolation01\obj\Debug\PChebyshev.pdb

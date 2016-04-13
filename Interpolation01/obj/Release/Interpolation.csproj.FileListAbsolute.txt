@@ -1,0 +1,5 @@
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\bin\Release\PChebyshev.exe.config
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Release\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Release\Interpolation01.Form1.resources
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Release\Interpolation.Properties.Resources.resources
+C:\Users\Maks_Sh\Desktop\Курсовая\Chebysh\Interpolation01\obj\Release\Interpolation.csproj.GenerateResource.Cache
